@@ -1,13 +1,7 @@
 
-h2{
-    color:red;
-    font-style: italic;
-
-}
-
-.form{
+body{
     display:flex;
-    background-color:red;
+    
 }
 
 li{
