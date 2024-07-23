@@ -4,3 +4,12 @@ h2{
     font-style: italic;
     
 }
+
+.form{
+    display:flex;
+    background-color:red;
+}
+
+li{
+    list-style-type:none;
+}
