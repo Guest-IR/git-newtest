@@ -19,3 +19,6 @@ function animationGenerator(){
 setInterval(()=>{
  console.log('Hello I am animation maker')
 },4000)
+
+
+let result=Math.floor()*365
