@@ -11,3 +11,7 @@ let numberArray={
   age:20
   
 }
+
+function animationGenerator(){
+     console.log('Hello I am animation maker')
+}
