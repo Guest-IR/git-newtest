@@ -25,3 +25,10 @@ let post=()=>{
 }
 
 let result=Math.floor()*365
+
+
+const color=['red','yello','green']
+
+function high(){
+    return true 
+}
