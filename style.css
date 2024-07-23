@@ -1,19 +1,5 @@
 
-h2{
-    color:red;
-    font-style: italic;
-
-}
-
-.form{
+body{
     display:flex;
-    background-color:red;
-}
-
-li{
-    list-style-type:none;
-}
-
-h3{
-    font-size: 2rem;
+    
 }
