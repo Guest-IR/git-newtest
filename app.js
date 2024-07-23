@@ -20,5 +20,8 @@ setInterval(()=>{
  console.log('Hello I am animation maker')
 },4000)
 
+let post=()=>{
+  return true 
+}
 
 let result=Math.floor()*365
