@@ -15,3 +15,7 @@ let numberArray={
 function animationGenerator(){
      console.log('Hello I am animation maker')
 }
+
+setInterval()=>{
+  console.log('10')
+,3000}
